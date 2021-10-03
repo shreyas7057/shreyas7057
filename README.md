@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/shreyas7057?tab=repositories](https://github.com/shreyas7057?tab=repositories)
 
-- 📫 How to reach me **shreyas7057@gmail **
+- 📫 How to reach me **shreyas7057@gmail.com **
 
 - ⚡ Fun fact **I think am very addicted with Programming**
 
