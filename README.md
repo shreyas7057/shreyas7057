@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **shreyas7057@gmail.com **
 
-- ⚡ Fun fact **I think am very addicted with Programming**
+- ⚡ Fun fact **I think I am very addicted with Programming**
 
 
 <h3 align="left">Connect with me:</h3>
