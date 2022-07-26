@@ -1,5 +1,5 @@
 <h1 align="center">About ME </h1>
-<h3 align="center">A passionate Backend Developer and Python Developer from India</h3>
+<h3 align="center">A passionate about new technologies and interested in coding.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyas7057&label=Profile%20views&color=0e75b6&style=flat" alt="shreyas7057" /> </p>
 
