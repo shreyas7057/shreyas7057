@@ -7,13 +7,13 @@
 
 
 
-- 🔭 I’m currently working on **DJANGO - PYTHON - C++ - HTML - CSS - BOOTSTRAP**
+- 🔭 I’m currently working on **DJANGO - PYTHON - JAVASCRIPT - REACTJS - NODEJS - SQL - MONGODB**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shreyas7057?tab=repositories](https://github.com/shreyas7057?tab=repositories)
 
 - 📫 How to reach me **shreyas7057@gmail.com **
 
-- ⚡ Fun fact **I think I am very addicted with Programming**
+- ⚡ Fun fact **I think I am very addicted to Programming**
 
 
 <h3 align="left">Connect with me:</h3>
