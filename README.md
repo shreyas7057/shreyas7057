@@ -1,8 +1,6 @@
 <h1 align="center">About ME </h1>
 <h3 align="center">A passionate about new technologies and interested in coding.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyas7057&label=Profile%20views&color=0e75b6&style=flat" alt="shreyas7057" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shreyas7057" alt="shreyas7057" /></a> </p>
 
 
